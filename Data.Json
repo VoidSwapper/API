@@ -1,6 +1,6 @@
 {
     "Application":{
-        
+
         "Version": "Void-dev-1.0.0.0",
 
         "ZipDownload": ""
@@ -13,7 +13,7 @@
         "Items": {
             "Generated":{
 
-                "Skins": "",
+                "Skins": "https://cdn.discordapp.com/attachments/978043490300731394/982240117706067978/mesh-skinsGEN.json",
 
                 "BackBlings": "",
 
