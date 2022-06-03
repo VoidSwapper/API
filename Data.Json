@@ -1,0 +1,36 @@
+{
+    "Application":{
+        
+        "Version": "Void-dev-1.0.0.0",
+
+        "ZipDownload": ""
+    },
+
+    "APIInfo":{
+
+        "Version": "Void-api-1.0.0.0",
+
+        "Items": {
+            "Generated":{
+
+                "Skins": "",
+
+                "BackBlings": "",
+
+                "Pickaxes": "",
+
+                "Emotes": ""
+            },
+            "Manually": {
+
+                "Skins": "",
+
+                "BackBlings": "",
+
+                "Pickaxes": "",
+
+                "Emotes": ""
+            }
+        }
+    }
+}
