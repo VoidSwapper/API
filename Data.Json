@@ -8,6 +8,12 @@
                 "body": "Welcome to our first launch!",
                 "image": "https://cdn2.unrealengine.com/7up-3840x2160-c93d04c02c26.jpg",
                 "priority": 0
+            },
+            {
+                "title": "Over 5k items!",
+                "body": "We have a massive number of selection of items!",
+                "image": "https://cdn2.unrealengine.com/7up-3840x2160-c93d04c02c26.jpg",
+                "priority": 0
             }
         ],
         "PatchNotes": {
