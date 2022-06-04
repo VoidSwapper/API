@@ -1,0 +1,20 @@
+{
+    "generated": {
+        "skins": {
+            "version": "v1.0.0.0",
+            "downloadLink": "https://cdn.discordapp.com/attachments/978043490300731394/982240117706067978/mesh-skinsGEN.json"
+        },
+        "backblings": {
+            "version": "v1.0.0.0",
+            "downloadLink": "https://cdn.discordapp.com/attachments/834914026442063903/982362040670756915/BackBlings.json"
+        },
+        "pickaxes": {
+            "version": "v1.0.0.0",
+            "downloadLink": "https://cdn.discordapp.com/attachments/834914026442063903/982427791511420998/0000000000000000000000000000askjldhnjsa.json"
+        },
+        "emotes": {
+            "version": "v1.0.0.0",
+            "downloadLink": " "
+        }
+    }
+}
