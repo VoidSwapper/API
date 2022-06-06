@@ -1,6 +1,7 @@
 {
-    "version": "void-dev-1.0.0.0",
+    "version": "void-dev-1.0.0.1",
     "isEnabled": true,
+    "downloadLink": "https://cdn.discordapp.com/attachments/982611898614816788/983207771564560384/net6.0-windows.zip",
     "content": {
         "news": [
             {

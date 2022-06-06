@@ -16,5 +16,23 @@
             "version": "v1.0.0.0",
             "downloadLink": " "
         }
+    },
+    "manually": {
+        "skins": {
+            "version": null,
+            "downloadLink": null
+        },
+        "backblings": {
+            "version": null,
+            "downloadLink": null
+        },
+        "pickaxes": {
+            "version": null,
+            "downloadLink": null
+        },
+        "emotes": {
+            "version": null,
+            "downloadLink": null
+        }
     }
 }
