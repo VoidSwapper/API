@@ -22,7 +22,7 @@
             "description": "beta void-dev-1.0.0.0 release",
             "changes": [
                 {
-                    "type": "Updated",
+                    "type": 2,
                     "note": "Fixed performance issues"
                 }
             ]
