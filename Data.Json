@@ -5,15 +5,22 @@
     "content": {
         "news": [
             {
-                "title": "Launch",
-                "body": "Welcome to our first launch!",
-                "image": "https://cdn2.unrealengine.com/7up-3840x2160-c93d04c02c26.jpg",
+                "title": "Void Release!",
+                "body": "We are happy to announce Void Swapper v1.0.0.1.",
+                "image": "https://cdn.discordapp.com/attachments/826784870516260884/984571135922413578/fortnite_season_3_chapter_3_vibin_reality_tree_falls_epic_games_1654516122262.jpg",
                 "priority": 0
             },
             {
-                "title": "Over 5k items!",
-                "body": "We have a massive number of selection of items!",
+                "title": "Loads to choose from!",
+                "body": "We have over 5,000 items to choose from.",
                 "image": "https://cdn2.unrealengine.com/13br-evergreens-blue-newsheader-1920x1080-864336340.jpg",
+                "priority": 0
+            }
+            ,
+            {
+                "title": "Void Discord!",
+                "body": "Join our discord at http://discord.com",
+                "image": "https://static-prod.adweek.com/wp-content/uploads/2022/05/Discord-Banner-1500x680.png",
                 "priority": 0
             }
         ],
