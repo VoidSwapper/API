@@ -14,14 +14,14 @@
                 "title": "Loads to choose from!",
                 "body": "We have over 5,000 items to choose from.",
                 "image": "https://cdn2.unrealengine.com/13br-evergreens-blue-newsheader-1920x1080-864336340.jpg",
-                "priority": 0
+                "priority": 1
             }
             ,
             {
                 "title": "Void Discord!",
                 "body": "Join our discord at http://discord.com",
                 "image": "https://static-prod.adweek.com/wp-content/uploads/2022/05/Discord-Banner-1500x680.png",
-                "priority": 0
+                "priority": 2
             }
         ],
         "PatchNotes": {
