@@ -26,11 +26,23 @@
         ],
         "PatchNotes": {
             "title": "PatchNotes",
-            "description": "beta void-dev-1.0.0.0 release",
+            "description": "Void Release - 11/06/2022",
             "changes": [
                 {
-                    "type": 2,
-                    "note": "Fixed performance issues"
+                    "type": 0,
+                    "note": "Skins swaps"
+                },
+                {
+                    "type": 0,
+                    "note": "Backblings swaps"
+                },
+                {
+                    "type": 0,
+                    "note": "Pickaxe swaps"
+                },
+                {
+                    "type": 0,
+                    "note": "Emotes swaps"
                 }
             ]
         }
